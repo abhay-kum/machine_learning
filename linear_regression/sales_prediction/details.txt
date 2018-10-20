@@ -1,0 +1,21 @@
+###################################################################
+@Author: Abhay Kumar
+@Email:  abhaykumariiit@gmail.com 
+
+##################################################################
+
+This file is describe about approaches to  predict the total sales
+
+##################################################################
+
+ I have used the only 11 columns from the train dataset  which is relevent to predicting 
+ total sales like : bussiness type, avg_age, blue_collar, white_collar, female, male, total_household_size, total_household_income, employee_size, actual_credit_score
+
+I have applied the linear regression technique to predict the total sales using python3 as above column only.
+
+I have used following library in this challenge
+
+ 1.numpy
+ 2.pandas
+
+
