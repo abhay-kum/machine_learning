@@ -1,7 +1,9 @@
 It is a simple weather chat bot written in python
 
-working demo of that
+#working demo of that
+
 abhay@abhay-Lenovo-ideapad-300-15ISK:~/Desktop/Files/machine_learning_challenge/chatbot$ python3 weather_bot.py 
+
 ======== Welcome to weather Bot ======== 
 >>hello
 Hii,  what can I do for you?
